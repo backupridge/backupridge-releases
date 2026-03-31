@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Do not commit release ZIPs to the repo — they are uploaded as GitHub Release assets.
+*.zip
