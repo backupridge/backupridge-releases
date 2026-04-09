@@ -8,7 +8,7 @@ Download the latest version from the [Releases](https://github.com/backupridge/b
 
 Each release includes:
 
-- **`backupridge-free-X.Y.Z.zip`** — Free version with full site backup, scheduled automation, one-click restore, and cloud storage support.
+- **`backupridge-X.Y.Z.zip`** — Free version with full site backup, scheduled automation, one-click restore, and cloud storage support (same build as WordPress.org when listed).
 
 ## Installation
 
